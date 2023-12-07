@@ -18,6 +18,8 @@
    <p>Scans social media platforms for an uploaded image.</p>
   <li><a href="https://images.google.com/">Google Image Search</a></li>
    <p>Link to Google's reverse image webpage.</p>
+    <li><a href="https://yandex.ru/images">Yandex Image Search</a></li>
+   <p>( Better than Google but in russian ) Link to Yandex's reverse image webpage.</p>
   <li><a href="https://duplichecker.com/reverse-image-search.php">Duplichecker</a></li>
    <p>You can search for an image by uploading + with URL or typing the keyword or any word you want to explore related to images.</p>
   <li><a href="https://gvision.streamlit.app/">Gonzo GVision</li>
